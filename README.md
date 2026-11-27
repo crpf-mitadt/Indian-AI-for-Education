@@ -825,6 +825,7 @@ model capability
 * [MILU](https://huggingface.co/datasets/ai4bharat/MILU) - Multilingual Indic language-understanding benchmark. `Benchmark`
 * [IndicIFEval](https://huggingface.co/datasets/ai4bharat/IndicIFEval) - Verifiable instruction-following benchmark for Indic languages. `Benchmark`
 * [IndicIFEval GitHub](https://github.com/AI4Bharat/IndicIFEval) - Evaluation tooling and benchmark repository.
+* [Hindi probability minimal pairs](https://huggingface.co/datasets/lmo0317/hindi-probability-minimal-pairs) - Classroom diagnostic with 32 Hindi–English questions distinguishing conditional from joint probability, checked against enumerated outcomes. `Dataset` `Public access` `Check license`
 * [IndicContextEval](https://huggingface.co/datasets/ai4bharat/IndicContextEval) - Context/long-context evaluation for Indian languages. `Benchmark`
 * [IN22-Gen](https://huggingface.co/datasets/ai4bharat/IN22-Gen) - Indic MT benchmark.
 * [IN22-Conv](https://huggingface.co/datasets/ai4bharat/IN22-Conv) - Conversational Indic MT benchmark.
